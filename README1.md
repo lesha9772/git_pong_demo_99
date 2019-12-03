@@ -3,3 +3,5 @@ I need to master this so I can be a good team member. Ping ponging more stuff in
 
 
 # wooooooooos
+
+updated README with info about GitPong from Alex (:
